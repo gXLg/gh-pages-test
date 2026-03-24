@@ -1,0 +1,7 @@
+remote_theme: lewismiddleton/cayman-dark
+plugins:
+- jekyll-remote-theme
+
+title: Title
+description: A short description of your site's purpose
+show_downloads: false
