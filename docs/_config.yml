@@ -8,7 +8,7 @@ title: Title
 description: Lorem ipsum type shee
 show_downloads: false
 darkmode: True
-colors:
+color:
     gradient_left: "#ffaa00"
     gradient_right: "#aaaaaa"
     header: "#fff"
