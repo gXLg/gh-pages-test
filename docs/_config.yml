@@ -3,14 +3,11 @@ plugins:
 
 remote_theme: tuur29/pages-themes-cayman
 
-logo_url: /gh-pages-test/imgs/libr-getter.png
-title: Title
-description: Lorem ipsum type shee
 show_downloads: false
 darkmode: True
 color:
     gradient_left: "#ffaa00"
-    gradient_right: "#aaaaaa"
+    gradient_right: "#e32759"
     header: "#fff"
 buttons:
     github_hide: true
