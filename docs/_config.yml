@@ -1,7 +1,15 @@
-remote_theme: pages-themes/cayman@v0.2.0
+remote_theme: tuur29/pages-themes-cayman
 plugins:
 - jekyll-remote-theme
 
-title: Title
-description: A short description of your site's purpose
+logo_url: ./imgs/libr-getter.png
+title: Title 2
+description: Lorem ipsum type shee
 show_downloads: false
+darkmode: True
+colors:
+    gradient_left: "#FFAA00"
+    gradient_right: "#AAAAAA"
+    header: "#fff"
+buttons:
+    github_hide: true
