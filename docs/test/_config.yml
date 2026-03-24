@@ -1,0 +1,7 @@
+remote_theme: lewismiddleton/cayman-dark
+plugins:
+- jekyll-remote-theme
+
+title: Title
+description: Lorem ipsum type shee
+show_downloads: false
